@@ -5,7 +5,7 @@
 
 ----
 
-A high schooler from India with a passion for full stack development.I love python and Js seems to be my new love. 
+A high schooler from FPTU with a passion for full stack development.I love JavaScript and Python seems to be my new love. 
 
 -----
 
@@ -19,7 +19,6 @@ Skills:
 
 -----Tamnhhe
 <a href="https://github.com/Tamnhhe">
-  <img src="https://komarev.com/ghpvc/?username=Tamnhhe&style=flat-square" />
 </a>
 
 
