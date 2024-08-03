@@ -13,7 +13,6 @@ Skills:
 - Web Develpment with React.js
 - Machine learning with Sckit-learn
 - API with FastAPI
-- Discord bots with dpy
 - Dockerizing Apps
 
 
@@ -32,7 +31,7 @@ Skills:
 </a>
 
 
-Feel free to chat with me on discord.
+Feel free to chat with me on facebook.
 
 -----
 
