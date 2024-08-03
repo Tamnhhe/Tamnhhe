@@ -1,7 +1,6 @@
 
 ### It's a me Daggy
 
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689) 
 
 ----
 
@@ -17,9 +16,7 @@ Skills:
 - Discord bots with dpy
 - Dockerizing Apps
 
------Tamnhhe
-<a href="https://github.com/Tamnhhe">
-</a>
+
 
 
 ***
