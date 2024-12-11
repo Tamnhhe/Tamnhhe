@@ -12,7 +12,7 @@ Skills:
 
 - Web Develpment with React.js
 - Machine learning with Sckit-learn
-- API with FastAPI
+- API with RestAPI
 - Dockerizing Apps
 
 
