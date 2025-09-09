@@ -10,7 +10,7 @@ A high schooler from FPTU with a passion for full stack development.I love JavaS
 
 Skills:
 
-- Web Develpment with React.js
+- Web Develpment with React.js, NextJS, NestJS
 - Machine learning with Sckit-learn
 - API with RestAPI
 - Dockerizing Apps
